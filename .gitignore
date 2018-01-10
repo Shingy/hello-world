@@ -30,10 +30,10 @@ local.properties
 .settings/
 .loadpath
 .recommenders
-.project
+#.project
 .externalToolBuilders/
 *.launch
-.classpath
+#.classpath
 .factorypath
 .buildpath
 .target
